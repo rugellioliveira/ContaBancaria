@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Conta
+comment0.text=\r\n\ Classe\ que\ representa\ uma\ conta\ em\ um\ banco.\r\n\ \r\n\ @author\ Rugelli\ Oliveira\r\n\ @version\ 1.0\r\n
+comment1.params=limiteConta\ novoCliente
+comment1.target=Conta(double,\ Cliente)
+comment2.params=limiteConta\ saldo\ novoCliente
+comment2.target=Conta(double,\ double,\ Cliente)
+comment3.params=
+comment3.target=java.lang.String\ nomeTitular()
+comment4.params=
+comment4.target=java.lang.String\ cpfTitular()
+comment5.params=
+comment5.target=double\ getSaldo()
+comment6.params=
+comment6.target=int\ getNumeroConta()
+comment7.params=valorSaque
+comment7.target=boolean\ saque(double)
+comment8.params=valorDeposito
+comment8.target=void\ deposito(double)
+comment9.params=valorTransferencia\ contaDestino
+comment9.target=boolean\ transferencia(double,\ Conta)
+numComments=10
